@@ -1,0 +1,26 @@
+h1 {
+    color: red; /*This is a color*/
+    text-align: center; /*This is a align*/
+    font-size: 60px;
+    text-shadow: 10px 4px 8px grey;
+}
+h2 {
+    color: orange;
+    font-size: 30px;
+}
+body {
+  background-color: aqua;
+  margin-left: 20px;
+}
+h3 {
+  color: blue;
+}
+p {
+ color: black;
+}
+ol {
+  color: blue;
+}
+ul {
+  color: navy;
+}
