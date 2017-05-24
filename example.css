@@ -5,11 +5,11 @@ h1 {
     text-shadow: 10px 4px 8px grey;
 }
 h2 {
-    color: orange;
+    color: maroon;
     font-size: 30px;
 }
 body {
-  background-color: aqua;
+  background-color: yellow; /*This is a pages color*/
   margin-left: 20px;
 }
 h3 {
@@ -20,7 +20,14 @@ p {
 }
 ol {
   color: blue;
+  border: 2px solid #999;
+  background: #eee;
 }
 ul {
-  color: navy;
+  color: purple;
+}
+.name {
+  font-weight: bold;
+  color: #000898;
+  background: #fff;
 }
